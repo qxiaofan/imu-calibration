@@ -1,6 +1,6 @@
 ### 介绍
 
-本工程forked from[imu_tk](https://github.com/Kyle-ak/imu_tk), 详细介绍如下文介绍。
+本工程forked from [imu_tk](https://github.com/Kyle-ak/imu_tk), 详细介绍如下文介绍。
 
 
 
